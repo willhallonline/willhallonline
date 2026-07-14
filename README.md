@@ -34,7 +34,16 @@ Friends of the family:
 | 🐳 Docker Hub | [hub.docker.com/u/willhallonline](https://hub.docker.com/u/willhallonline/) |
 | 🐙 GitHub | [github.com/willhallonline](https://github.com/willhallonline) |
 | 🦊 GitLab | [gitlab.com/willhallonline](https://gitlab.com/willhallonline) |
+| 💼 LinkedIn | [linkedin.com/in/willhallonline](https://www.linkedin.com/in/willhallonline/) |
 | 🧰 Docker DevTools | [docker-devtools.gitlab.io](https://docker-devtools.gitlab.io) |
+
+## 📝 Latest from the blog
+
+- 🔥 [Melting Point: What a UK Heatwave Taught Me About My Homelab](https://www.willhallonline.co.uk/blog/2026-07-13-melting-point-the-heatwave-and-my-homelab/)
+- 💾 [Things I Have Running in My Home: Part 3 – Storage](https://www.willhallonline.co.uk/blog/2026-05-04-things-i-have-running-in-my-home-part-3-storage/)
+- 🌐 [Things I Have Running in My Home: Part 2b – IP Addresses](https://www.willhallonline.co.uk/blog/2026-05-04-things-i-have-running-in-my-home-part-2b-network/)
+- 🕸️ [Things I Have Running in My Home: Part 2 – The Network](https://www.willhallonline.co.uk/blog/2026-05-01-things-i-have-running-in-my-home-part-2-network/)
+- 🏠 [Things I Have Running in My Home: Part 1 – An Introduction to My Home Lab](https://www.willhallonline.co.uk/blog/2026-04-27-things-i-have-running-in-my-home-part-1-intro/)
 
 ---
 
