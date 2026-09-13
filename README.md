@@ -9,22 +9,24 @@ I spend my days making machines do the boring stuff so humans don't have to — 
 My flagship project: [**docker-ansible**](https://github.com/willhallonline/docker-ansible) — Ansible inside Docker containers, so you can run your playbooks anywhere Docker runs. ⭐ 470+ stars and counting!
 
 - 🐧 Multiple base images: **Alpine, Ubuntu, Rocky Linux & Debian**
-- 📌 Loads of Ansible versions: **2.21, 2.20, 2.19, 2.18** and more (older versions still supported)
+- 📌 Ansible Core **2.16 through 2.21** (older versions still supported)
 - 🔄 Regularly rebuilt and published to [Docker Hub](https://hub.docker.com/u/willhallonline/)
 
 Friends of the family:
 
 - 🤖 [docker-ansible-github-action](https://github.com/willhallonline/docker-ansible-github-action) — run Ansible in your GitHub Actions workflows
-- 🧪 [docker-ansible-test](https://github.com/willhallonline/docker-ansible-test) — testing Ansible the containerised way
+- 🧪 [docker-ansible-test](https://github.com/willhallonline/docker-ansible-test) — systemd-enabled images for testing roles and playbooks
+- ✅ [docker-ansible-github-action-test](https://github.com/willhallonline/docker-ansible-github-action-test) — integration tests for the GitHub Action across the image matrix
+- 🔐 [ansible-role-acme_sh](https://github.com/willhallonline/ansible-role-acme_sh) — install acme.sh and issue Let's Encrypt certificates
 - 🛠️ [docker-devtools-aliases](https://github.com/willhallonline/docker-devtools-aliases) — shell aliases that swap locally-installed tools for Docker containers ([docs here](https://docker-devtools.gitlab.io))
 
 ## 🔭 What I'm working on
 
-- 🐳 Keeping the **docker-ansible** image matrix fresh across distros and Ansible releases
+- 🐳 Keeping the **docker-ansible** image matrix fresh across distros and Ansible releases, including Alpine 3.23/3.24, Debian Trixie, Rocky Linux 10 and Ubuntu 26.04
+- 🩺 Adding healthchecks and keeping the companion test images aligned with the main Ansible releases
+- 🤖 Building and testing a GitHub Action that runs playbooks inside the same Docker images locally and in CI
+- 🔐 Maintaining Ansible roles for practical infrastructure tasks, including automated TLS certificates with acme.sh
 - 🧰 **Docker DevTools** — never install a dev tool locally again
-- 🏗️ **Terraform** modules, pipelines and cloud infrastructure
-- 🎭 **Backstage** plugins and templates (including GitLab integrations)
-- 🦊 GitLab automation, CI/CD and the odd bash API script
 
 ## 🌍 Find me around the web
 
@@ -39,11 +41,12 @@ Friends of the family:
 
 ## 📝 Latest from the blog
 
+- 🚀 [Docker Ansible 6.4.8 and the Projects Around It](https://www.willhallonline.co.uk/blog/2026-09-12-docker-ansible-6-4-8-and-the-projects-around-it/)
+- 📚 [Documentation in a Post-AI-Agent World](https://www.willhallonline.co.uk/blog/2026-09-12-documentation-in-a-post-ai-agent-world/)
+- 📶 [Improving home Wi-Fi: what the tests revealed](https://www.willhallonline.co.uk/blog/2026-08-23-improving-home-wifi-what-the-tests-revealed/)
+- 🤖 [Running Docker Ansible with a GitHub Action](https://www.willhallonline.co.uk/blog/2026-08-12-docker-ansible-github-action-and-test-repo/)
+- 🧠 [My AI Process, or Am I Hallucinating?](https://www.willhallonline.co.uk/blog/2026-07-28-my-ai-process-or-am-i-hallucinating/)
 - 🔥 [Melting Point: What a UK Heatwave Taught Me About My Homelab](https://www.willhallonline.co.uk/blog/2026-07-13-melting-point-the-heatwave-and-my-homelab/)
-- 💾 [Things I Have Running in My Home: Part 3 – Storage](https://www.willhallonline.co.uk/blog/2026-05-04-things-i-have-running-in-my-home-part-3-storage/)
-- 🌐 [Things I Have Running in My Home: Part 2b – IP Addresses](https://www.willhallonline.co.uk/blog/2026-05-04-things-i-have-running-in-my-home-part-2b-network/)
-- 🕸️ [Things I Have Running in My Home: Part 2 – The Network](https://www.willhallonline.co.uk/blog/2026-05-01-things-i-have-running-in-my-home-part-2-network/)
-- 🏠 [Things I Have Running in My Home: Part 1 – An Introduction to My Home Lab](https://www.willhallonline.co.uk/blog/2026-04-27-things-i-have-running-in-my-home-part-1-intro/)
 
 ---
 
